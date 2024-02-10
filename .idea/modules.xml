@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/DjangoProjects/.idea/DjangoProjects.iml" filepath="G:/DjangoProjects/.idea/DjangoProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FastApi/.idea/FastApi.iml" filepath="$PROJECT_DIR$/../FastApi/.idea/FastApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cart/.idea/cart.iml" filepath="$PROJECT_DIR$/../cart/.idea/cart.iml" />
+      <module fileurl="file://E:/crudfast/.idea/crudfast.iml" filepath="E:/crudfast/.idea/crudfast.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/demo/.idea/demo.iml" filepath="$USER_HOME$/PycharmProjects/demo/.idea/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demoFast.iml" filepath="$PROJECT_DIR$/.idea/demoFast.iml" />
+      <module fileurl="file://G:/python/.idea/python.iml" filepath="G:/python/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../samta_ai_assignment/.idea/samta_ai_assignment.iml" filepath="$PROJECT_DIR$/../samta_ai_assignment/.idea/samta_ai_assignment.iml" />
+    </modules>
+  </component>
+</project>
